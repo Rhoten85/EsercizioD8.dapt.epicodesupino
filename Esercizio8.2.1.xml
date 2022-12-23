@@ -1,0 +1,43 @@
+﻿<serie_a_16giornata  anno="2018_2019">	  
+    <partita tv="sky">Frosinone-Fiorentina
+        <risultato>2-2</risultato>
+        <marcatori>Benassi, Pinamonti</marcatori>
+    </partita>    
+    <partita tv="sky">Torino-Parma
+        <risultato>1-2</risultato>
+        <marcatori>Gervinho, Inglese, Baselli</marcatori>
+    </partita>
+    <partita tv="sky">Spal-Cagliari
+        <risultato>2-2</risultato>
+        <marcatori>Petagna, Antenucci, Pavoletti, Ionita</marcatori>
+    </partita>
+    <partita tv="dazn">Genoa-Napoli
+        <risultato>1-2</risultato>
+        <marcatori>Kouame, Ruiz, aut.Biraghi</marcatori>
+    </partita>
+    <partita tv="sky">Atalanta-Inter
+        <risultato>4-1</risultato>
+        <marcatori>Hateboer, Icardi, Djimsiti, Gomez, Mancini</marcatori>
+    </partita>
+    <partita tv="dazn">Chievo-Bologna
+        <risultato>2-2</risultato>
+        <marcatori>Santander, Meggiorini, Obi, Orsolini</marcatori>
+    </partita>
+    <partita tv="dazn">Empoli-Udinese
+        <risultato>2-1</risultato>
+        <marcatori>Zajc, Caputo, Pussetto</marcatori>
+    </partita>
+    <partita tv="dazn">Roma-Sampdoria
+        <risultato>4-1</risultato>
+        <marcatori>JuanJesus, Schick, ElShaarawy, ElShaarawy, Defrel</marcatori>
+    </partita>
+    <partita tv="rai">Sassuolo-Lazio
+        <risultato>1-1</risultato>
+        <marcatori>Ferrari, Parolo</marcatori>
+    </partita>
+    <partita tv="rai">Milan-Juve
+        <risultato>0-2</risultato>
+        <marcatori>Ronaldo, Mandzukic</marcatori>
+    </partita>
+<!-- l'attributo "tv" nel tag partita sta ad indicare l'emmittente di trasmissione televisiva -->
+</serie_a_16giornata>    

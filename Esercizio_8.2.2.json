@@ -1,0 +1,158 @@
+﻿{
+    "Epicode_Data_Analyst_D1": {
+        "D1": {
+            "Titolo": "Introduzione al mondo dei dati",
+            "Argomenti": [
+                "BigData",
+                "Dato",
+                "Attributo",
+                "Approccio push e pull",
+                "Dati strutturati, non strutturati e semistrutturati"
+            ],
+            "Slide": 53,
+            "Appendice_Extra": false
+        }
+    },
+    "Epicode_Data_Analyst_D2": {
+        "D2": {
+            "Titolo": "Le figure nel mondo dei dati",
+            "Argomenti": [
+                "Data Engineer, Analyst, Scientist",
+                "DataJournalist"
+            ],
+            "Slide": 42,
+            "Appendice_Extra": true
+        }
+    },
+    "Epicode_Data_Analyst_D3": {
+        "D3": {
+            "Titolo": "Open Data",
+            "Argomenti": [
+                "Open Data",
+                "Licenze",
+                "Classificazione Open Data",
+                "Metadati",
+                "CSV"
+            ],
+            "Slide": 50,
+            "Appendice_Extra": true
+        }
+    },
+    "Epicode_Data_Analyst_D4": {
+        "D4": {
+            "Titolo": "Analisi e raccolta Requisiti",
+            "Argomenti": [
+                "Tecniche esplorazione requisiti",
+                "Linguaggio documentazione",
+                "Scenari d'uso",
+                "Glossario",
+                "DIKW",
+                "Requisiti funzionali e non funzionali"
+            ],
+            "Slide": 43,
+            "Appendice_Extra": false
+        }
+    },
+    "Epicode_Data_Analyst_D5": {
+        "D5": {
+            "Titolo": "CSV e tabelle relazionali",
+            "Argomenti": [
+                "Modello Base Dati",
+                "Relazione tabelle",
+                "Chaivi",
+                "Vincoli"
+            ],
+            "Slide": 32,
+            "Appendice_Extra": false
+        }
+    },
+    "Epicode_Data_Analyst_D6": {
+        "D6": {
+            "Titolo": "ETL dei dati",
+            "Argomenti": [
+                "ETL",
+                "Tableau Prep",
+                "Operazioni sui dati",
+                "Join"
+            ],
+            "Slide": 67,
+            "Appendice_Extra": false
+        }
+    },
+    "Epicode_Data_Analyst_D7": {
+        "D7": {
+            "Titolo": "Gli altri formati Open XML",
+            "Argomenti": [
+                "XML"
+            ],
+            "Slide": 32,
+            "Appendice_Extra": true
+        }
+    },
+    "Epicode_Data_Analyst_D8": {
+        "D8": {
+            "Titolo": "Gli altri Formati Open Json",
+            "Argomenti": [
+                "Json"
+            ],
+            "Slide": 19,
+            "Appendice_Extra": false
+        }
+    },
+    "Epicode_Data_Analyst_Extra_D2": {
+        "ED2": {
+            "Titolo": "Gestione di un progetto",
+            "Argomenti": [
+                "Struttura funzionale",
+                "Struttura Task Force",
+                "Struttura a Matrice",
+                "ProjectManager",
+                "WBS",
+                "OBS",
+                "RACI"
+            ],
+            "Slide": 56
+        }
+    },
+    "Epicode_Data_Analyst_Appendice_D2": {
+        "AD2": {
+            "Titolo": "Ruoli nell'analisi dati",
+            "Argomenti": [
+                "Data Engineer, Analyst, Scientist",
+                "DataJournalist",
+                "WBS",
+                "GANTT"
+            ],
+            "Slide": 11
+        }
+    },
+    "Epicode_Data_Analyst_Appendice1_D3": {
+        "A1_D3": {
+            "Titolo": "Work Breakdown Structure & co.",
+            "Argomenti": [
+                "WBS",
+                "RACI",
+                "GANTT",
+                "PERT"
+            ],
+            "Slide": 15
+        }
+    },
+    "Epicode_Data_Analyst_Appendice2_D3": {
+        "A2_D3": {
+            "Titolo": "Open Data",
+            "Argomenti": [
+                "Metadata",
+                "Quality data"
+            ],
+            "Slide": 16
+        }
+    },
+    "Epicode_Data_Analyst_AppendiceD6": {
+        "AD6": {
+            "Titolo": null,
+            "Argomenti": null,
+            "Slide": null
+        }
+    }
+}
